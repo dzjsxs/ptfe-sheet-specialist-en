@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ptfe-sheet-specialist-en.pages.dev/sitemap.xml
